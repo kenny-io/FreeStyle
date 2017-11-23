@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34621913947",
+    "firebase_url": "https://freestyle-ce0a0.firebaseio.com",
+    "project_id": "freestyle-ce0a0",
+    "storage_bucket": "freestyle-ce0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34621913947:android:fefc48952dfcc9eb",
+        "android_client_info": {
+          "package_name": "com.example.ekene.freestyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34621913947-m70okf0rk884hodckv8ghbvb6cd6s5qc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekene.freestyle",
+            "certificate_hash": "89df3f7b512058ac1f255f51d70722c99d8f025d"
+          }
+        },
+        {
+          "client_id": "34621913947-3hsj1akc07nhjnivg67l3rdhu3augmq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9pFSsX2fgtkc7_k-mxjp1lmE6JR6FKco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34621913947-3hsj1akc07nhjnivg67l3rdhu3augmq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
